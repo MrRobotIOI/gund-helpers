@@ -7,7 +7,7 @@ import java.net.URL;
 import java.util.Scanner;
 
 import org.json.*;
-//Ended up never using this, but it uses serpapi to get google shopping
+//Ended up never using this, but it uses serpapi to get google shopping json data
 public class googleShoppingParser {
 
     public static void main(String[] args) {
